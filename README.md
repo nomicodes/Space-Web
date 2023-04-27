@@ -1,2 +1,2 @@
 # Space-Web
-I built a simple website page using html and css
+I built a simple web page using html and css
